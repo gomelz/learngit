@@ -2,3 +2,4 @@ delete from t_nearlytime_hitch_passenger_city_statis where date_key = '${dt}${ho
 Lz1984
 
 sfs
+af
